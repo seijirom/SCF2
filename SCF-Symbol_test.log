@@ -1,4 +1,4 @@
-Circuit: * C:\Users\seijirom\work\SCF2\SCF-Symbol_test.asc
+Circuit: * Z:\home\anagix\work\SCF2\SCF-Symbol_test.tmp
 
 Limiting rise time of source vin2 to 5e-007
 Limiting fall time of source vin2 to 5e-007
@@ -111,21 +111,21 @@ Source Step = 93.9394%
 Source stepping succeeded in finding the operating point.
 
 
-Date: Wed Nov 11 20:24:12 2020
-Total elapsed time: 117.547 seconds.
+Date: Sun Nov 22 22:16:07 2020
+Total elapsed time: 40.965 seconds.
 
 tnom = 27
 temp = 27
 method = modified trap
-totiter = 619752
-traniter = 613833
-tranpoints = 239951
-accept = 172358
-rejected = 67593
+totiter = 620302
+traniter = 614383
+tranpoints = 239970
+accept = 172499
+rejected = 67471
 matrix size = 68
 fillins = 498
 solver = Normal
-Thread vector: 392.5/125.7[4] 34.1/23.5[4] 8.1/6.3[4] 1.5/170.6[1]  2592/500
-Matrix Compiler1: 90.22 KB object code size  53.2/19.8/[11.9]
-Matrix Compiler2: 18.83 KB object code size  21.7/5.1/[2.1]
+Thread vector: 110.1/41.2[7] 18.3/9.5[7] 3.5/5.1[1] 0.5/3.5[1]  2592/500
+Matrix Compiler1: 90.22 KB object code size  19.9/12.1/[4.9]
+Matrix Compiler2: 18.83 KB object code size  3.6/2.7/[0.6]
 
